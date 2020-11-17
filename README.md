@@ -1,1 +1,1 @@
-# fastcup5v5.github.com
+# fastcup5v5.github.io
